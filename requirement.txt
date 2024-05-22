@@ -3,3 +3,4 @@ pandas==2.2.2
 streamlit
 pip==24.0
 streamlit-option-menu
+option_menu
